@@ -12,10 +12,10 @@ Here we will walk through the steps needed for installing Atom on a development 
 
 ![](./images/atom.png)
 
-## Overview of Installation and Configuration steps
-1. Download and Install the Atom Editor from [https://atom.io/](https://atom.io/)
-2. [Install the Nuclide Plugin](docs/install-nuclide.md). **You will need to install a specific version that matches the version of the Nuclide server on your remote device**. This means that rather than using the plugin manager in Atom, you **must** use the command line to install a specific version.
-3. [Setup your connection to the remote computer](docs/nuclide-remote-connection.md)
+### Choose the Atom Instructions for Your Operating System
+
+The installation instruction will vary a little depending on the operating system of your development computer. Click on the instructions that are closest for your operating system.
+[Ubuntu](docs/atom-install-ubuntu.md), [Windows 10](docs/atom-install-windows.md) or [MacOSX](docs/atom-install-mac.md).
 
 ## Nano
 GNU nano is a small and friendly text editor. Besides basic text editing, nano offers many extra features, such as an interactive search-and-replace, undo/redo, syntax coloring, smooth scrolling, auto-indentation, go-to-line-and-column-number, feature toggles, file locking, backup files, and internationalization support.
