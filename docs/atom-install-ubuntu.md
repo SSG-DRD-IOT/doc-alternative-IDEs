@@ -22,6 +22,8 @@ These instructions were tested using the following software.
 
 4. Now you can launch the Atom Editor
     ![](images/atom-launch.png)
+
+5.Compare your result with this picture. Note that the color theme may be different.
     ![](images/atom-first-open.png)
 
 ### Install the Nuclide Plugin for the Atom Editor
@@ -74,8 +76,12 @@ The Welcome to Nuclide page should be open on starting the Atom Editor.
 2. Enter your remote computers IP address in the Server field
 3. Enter your password
 4. Enter the directory on the remote computer in the Inital Directory field.
-5. Press the connect button.
 It should look like this.
-![](images/remote-project-settings.md)
+![](images/remote-project-settings.png)
+5. Press the connect button.
 
 ### Congratulations, you can now save files to the remote computer!
+
+In the left sidebar, you should be able to access the project directory on the remote computer.
+
+If you don't see the left sidebar, then press **Ctrl-\\** to display it.
