@@ -15,7 +15,7 @@ Here we will walk through the steps needed for installing Atom on a development 
 ### Choose the Atom Instructions for Your Operating System
 
 The installation instruction will vary a little depending on the operating system of your development computer. Click on the instructions that are closest for your operating system.
-[Ubuntu](docs/ubuntu/atom-install.md), [Windows 10](docs/ubuntu/atom-install.md) or [MacOSX](docs/ubuntu/atom-install.md).
+[Ubuntu](docs/ubuntu/atom-install.md), [Windows 10](docs/windows/atom-install.md) or [MacOSX](docs/mac/atom-install.md).
 
 ## Nano
 GNU nano is a small and friendly text editor. Besides basic text editing, nano offers many extra features, such as an interactive search-and-replace, undo/redo, syntax coloring, smooth scrolling, auto-indentation, go-to-line-and-column-number, feature toggles, file locking, backup files, and internationalization support.
